@@ -156,10 +156,10 @@
 	if (typeof $.fn.revolution !== 'undefined') {
       
       $("#rev_slider").revolution({
-        // sliderType:"standard",
-        // sliderLayout:"fullscreen",
-        // dottedOverlay:"none",
-        // delay:7000,
+        sliderType:"standard",
+        sliderLayout:"fullscreen",
+        dottedOverlay:"none",
+        delay:7000,
         navigation: {
         //   keyboardNavigation:"off",
         //   keyboard_direction: "horizontal",
