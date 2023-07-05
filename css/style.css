@@ -76,7 +76,7 @@
 @import url('hover.css');
 @import url('magnific-popup.css');
 @import url('owl.carousel.css');
-@import url('owl.transitions.css');
+@import url('owl.transitions.css'); 
 @import url('settings.css');
 @import url('layers.css');
 @import url('navigation.css');
@@ -94,6 +94,7 @@ body{
   color: rgba(255,255,255,0.5);
   background-color: #272727;
 }
+
 
 ::-webkit-scrollbar{
   width: 8px;
@@ -611,7 +612,7 @@ label.error{
 .brand-panel{
   position: absolute;
   z-index: 4;
-  left: 0;
+  right: 0;
   top:0;
   width: 39.47vmin;
   height: 40.7vmin;
@@ -712,7 +713,7 @@ label.error{
 .vertical-panel-content{
   position: absolute;
   width: 19.735vmin;
-  left: 0;
+  right: 0;
   bottom: 0;
   text-align: center;
   -webkit-transition: all 0.3s;
@@ -806,11 +807,11 @@ label.error{
 }
 
 .navbar-desctop-menu{
-  float: right;
+  float: left;
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  font-size: 0.81em;
-  letter-spacing: 0.32em;
+  font-size: 1em;
+  /* letter-spacing: 0.32em; */
   text-transform: uppercase;
   margin-bottom: 0;
 }
