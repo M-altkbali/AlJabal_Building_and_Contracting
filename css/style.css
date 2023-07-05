@@ -513,6 +513,7 @@ label.error{
 
 .text-primary{
   color:#c5a47e;
+  
 }
 
 .page-lines{
@@ -1824,7 +1825,7 @@ img.mfp-img{
 .text-parallax-content{
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
-  font-size: 21.8em;
+  font-size: 16.5em;
   line-height: 1;
   overflow: hidden;
   margin-bottom: 0;
