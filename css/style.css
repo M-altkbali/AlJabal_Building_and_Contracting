@@ -159,7 +159,7 @@ h2,
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
   font-size: 2.1875em;
-  letter-spacing: 0.32em;
+  letter-spacing: 0em;
   text-transform: uppercase;
   color: #fff;
 }
@@ -180,7 +180,7 @@ h4,
   line-height: 1.35;
   font-weight: normal;
   color:#fff;
-  letter-spacing: 0.2em;
+  /* letter-spacing: 0.2em; */
   text-transform: uppercase;
 }
 
@@ -573,7 +573,7 @@ label.error{
   line-height: 1;
   color: #fff;
   position: absolute;
-  left: 0;
+  right: -500px;
   top:0.03em;
   opacity: 0.03;
   -webkit-transform: translate(-50%, -50%);
@@ -583,7 +583,7 @@ label.error{
 }
 
 .fade-title-right{
-  left:100%;
+  /* left:100%; */
 }
 
 .section-content{
@@ -1255,10 +1255,12 @@ label.error{
 .col-about-title{
   margin-top: 0;
   margin-bottom:1.1em; 
+  margin-right: 10px;
 }
 
 .col-about-info p:last-child{
   margin-bottom: 0; 
+  margin-right: 10px;
 }
 
 .col-about-img{
