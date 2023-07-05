@@ -92,7 +92,7 @@ website:   	http://www.themepunch.com
 	font-family:Arial;
 	font-size:60px;
 	font-weight:700;
-	letter-spacing:-2px;
+	/* letter-spacing:-2px; */
 	line-height:60px;
 	margin:0;
 	position:absolute;
@@ -344,7 +344,7 @@ website:   	http://www.themepunch.com
 	font-size:36px;
 	font-weight:700;
 	height:auto;
-	letter-spacing:-1.5px;
+	/* letter-spacing:-1.5px; */
 	line-height:36px;
 	margin:0;
 	padding:1px 4px 0;
@@ -729,7 +729,7 @@ website:   	http://www.themepunch.com
 	font-family:"Source Sans Pro";
 	font-size:60px;
 	font-weight:700;
-	letter-spacing:1px;
+	/* letter-spacing:1px; */
 	line-height:60px;
 	text-decoration:none;
 	text-shadow:none;
@@ -745,7 +745,7 @@ website:   	http://www.themepunch.com
 	font-family:"Source Sans Pro";
 	font-size:17px;
 	font-weight:400;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:24px;
 	text-decoration:none;
 	text-shadow:none;
@@ -780,7 +780,7 @@ website:   	http://www.themepunch.com
 	font-family:"Source Sans Pro";
 	font-size:22px;
 	font-weight:400;
-	letter-spacing:0;
+	/* letter-spacing:0; */
 	line-height:28px;
 	text-decoration:none;
 	text-shadow:none;
@@ -796,7 +796,7 @@ website:   	http://www.themepunch.com
 	font-family:"Source Sans Pro";
 	font-size:60px;
 	font-weight:700;
-	letter-spacing:1px;
+	/* letter-spacing:1px; */
 	line-height:60px;
 	text-decoration:none;
 	text-shadow:none;
@@ -812,7 +812,7 @@ website:   	http://www.themepunch.com
 	font-family:"Source Sans Pro";
 	font-size:22px;
 	font-weight:400;
-	letter-spacing:0;
+	/* letter-spacing:0; */
 	line-height:28px;
 	text-decoration:none;
 	text-shadow:none;
@@ -894,7 +894,7 @@ website:   	http://www.themepunch.com
 	font-size:30px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -912,7 +912,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:17px;
 	padding:0;
 	text-decoration:none;
@@ -930,7 +930,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -948,7 +948,7 @@ website:   	http://www.themepunch.com
 	font-size:30px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -966,7 +966,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:17px;
 	padding:10px 30px;
 	text-align:left;
@@ -1022,7 +1022,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:700;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:20px;
 	padding:0;
 	text-decoration:none;
@@ -1076,7 +1076,7 @@ website:   	http://www.themepunch.com
 	font-size:30px;
 	font-style:normal;
 	font-weight:100;
-	letter-spacing:5px;
+	/* letter-spacing:5px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -1112,7 +1112,7 @@ website:   	http://www.themepunch.com
 	font-size:12px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:20px;
 	padding:0;
 	text-decoration:none;
@@ -1130,7 +1130,7 @@ website:   	http://www.themepunch.com
 	font-size:60px;
 	font-style:normal;
 	font-weight:900;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:60px;
 	padding:0;
 	text-decoration:none;
@@ -1148,7 +1148,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:40px;
 	padding:0;
 	text-decoration:none;
@@ -1166,7 +1166,7 @@ website:   	http://www.themepunch.com
 	font-size:130px;
 	font-style:normal;
 	font-weight:100;
-	letter-spacing:13px;
+	/* letter-spacing:13px; */
 	line-height:130px;
 	padding:0;
 	text-decoration:none;
@@ -1201,7 +1201,7 @@ website:   	http://www.themepunch.com
 	font-size:32px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:4px;
+	/* letter-spacing:4px; */
 	line-height:32px;
 	padding:0;
 	text-decoration:none;
@@ -1281,7 +1281,7 @@ website:   	http://www.themepunch.com
 	font-size:80px;
 	font-style:normal;
 	font-weight:100;
-	letter-spacing:5px;
+	/* letter-spacing:5px; */
 	line-height:70px;
 	padding:0;
 	text-decoration:none;
@@ -1299,7 +1299,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -1344,7 +1344,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:20px;
 	padding:3px 5px 3px 8px;
 	text-decoration:none;
@@ -1373,7 +1373,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -1391,7 +1391,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:30px;
 	padding:0;
 	text-decoration:none;
@@ -1488,7 +1488,7 @@ website:   	http://www.themepunch.com
 	font-size:15px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:20px;
 	padding:3px 5px 3px 8px;
 	text-align:left;
@@ -1619,7 +1619,7 @@ website:   	http://www.themepunch.com
 	font-size:13px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:4px;
+	/* letter-spacing:4px; */
 	line-height:20px;
 	padding:0;
 	text-align:left;
@@ -1638,7 +1638,7 @@ website:   	http://www.themepunch.com
 	font-size:14px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:14px;
 	padding:10px 30px;
 	text-align:left;
@@ -1668,7 +1668,7 @@ website:   	http://www.themepunch.com
 	font-size:30px;
 	font-style:normal;
 	font-weight:400;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:30px;
 	padding:0;
 	text-align:left;
@@ -1687,7 +1687,7 @@ website:   	http://www.themepunch.com
 	font-size:14px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:14px;
 	padding:27px 30px;
 	text-align:left;
@@ -1735,7 +1735,7 @@ website:   	http://www.themepunch.com
 	font-size:20px;
 	font-style:normal;
 	font-weight:300;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:20px;
 	padding:3px 5px 3px 8px;
 	text-align:left;
@@ -1765,7 +1765,7 @@ website:   	http://www.themepunch.com
 	font-size:13px;
 	font-style:normal;
 	font-weight:700;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:17px;
 	padding:12px 35px;
 	text-align:left;
@@ -1849,7 +1849,7 @@ website:   	http://www.themepunch.com
 	font-size:14px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:14px;
 	padding:10px 30px;
 	text-align:left;
@@ -1897,7 +1897,7 @@ website:   	http://www.themepunch.com
 	font-size:12px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:12px;
 	padding:5px;
 	text-align:left;
@@ -1916,7 +1916,7 @@ website:   	http://www.themepunch.com
 	font-size:14px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:14px;
 	padding:10px 30px;
 	text-align:left;
@@ -1946,7 +1946,7 @@ website:   	http://www.themepunch.com
 	font-size:14px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:14px;
 	padding:27px 30px;
 	text-align:left;
@@ -1976,7 +1976,7 @@ website:   	http://www.themepunch.com
 	font-size:16px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:1px;
+	/* letter-spacing:1px; */
 	line-height:48px;
 	padding:0 40px;
 	text-align:left;
@@ -2006,7 +2006,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:500;
-	letter-spacing:3px;
+	/* letter-spacing:3px; */
 	line-height:17px;
 	padding:12px 35px;
 	text-align:left;
@@ -2036,7 +2036,7 @@ website:   	http://www.themepunch.com
 	font-size:15px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:1px;
+	/* letter-spacing:1px; */
 	line-height:15px;
 	padding:13px 35px;
 	text-align:left;
@@ -2095,7 +2095,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:2px;
+	:2px;
 	line-height:17px;
 	padding:12px 35px;
 	text-align:left;
@@ -2125,7 +2125,7 @@ website:   	http://www.themepunch.com
 	font-size:17px;
 	font-style:normal;
 	font-weight:600;
-	letter-spacing:2px;
+	/* letter-spacing:2px; */
 	line-height:17px;
 	padding:12px 35px;
 	text-align:left;
@@ -2564,7 +2564,8 @@ website:   	http://www.themepunch.com
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.BigBold-Button,
 .BigBold-Button {
@@ -2582,7 +2583,8 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 0px 0px 0px 0px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.BigBold-Button:hover,
 .BigBold-Button:hover {
@@ -2627,7 +2629,8 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 0px 0px 0px 0px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.FoodCarousel-Button:hover,
 .FoodCarousel-Button:hover {
@@ -2655,7 +2658,8 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 30px 30px 30px 30px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.FoodCarousel-CloseButton:hover,
 .FoodCarousel-CloseButton:hover {
@@ -2751,8 +2755,9 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 2px;
     border-radius: 5px 5px 5px 5px;
-    text-align: left;
-    letter-spacing: 1px
+    text-align: left;   
+     /* letter-spacing: 1px */
+
 }
 .tp-caption.Travel-CallToAction:hover,
 .Travel-CallToAction:hover {
@@ -2961,7 +2966,8 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 0px 0px 0px 0px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.ContentZoom-Button:hover,
 .ContentZoom-Button:hover {
@@ -2989,7 +2995,8 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 30px 30px 30px 30px;
     text-align: left;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.ContentZoom-ButtonClose:hover,
 .ContentZoom-ButtonClose:hover {
@@ -3087,7 +3094,8 @@ website:   	http://www.themepunch.com
 .revtp-form input[type="submit"] {	
 	font-family: "Arial", sans-serif;
     line-height: 46px;
-    letter-spacing: 1px;
+        /* letter-spacing: 1px */
+;
     text-transform: uppercase;
     font-size: 15px;
     font-weight: 700;
@@ -3176,7 +3184,8 @@ website:   	http://www.themepunch.com
         border-style: solid;
         border-width: 0px;
         border-radius: 50px 50px 50px 50px;
-        letter-spacing: 1px;
+            /* letter-spacing: 1px */
+;
         text-align: left
     }
     .tp-caption.Concept-MoreBtn:hover,
@@ -3205,7 +3214,8 @@ website:   	http://www.themepunch.com
         border-style: solid;
         border-width: 0px;
         border-radius: 50px 50px 50px 50px;
-        letter-spacing: 1px;
+            /* letter-spacing: 1px */
+;
         text-align: left
     }
     .tp-caption.Concept-LessBtn:hover,
@@ -3269,7 +3279,8 @@ website:   	http://www.themepunch.com
         border-style: solid;
         border-width: 0px;
         border-radius: 50px 50px 50px 50px;
-        letter-spacing: 1px;
+            /* letter-spacing: 1px */
+;
         text-align: left
     }
     .tp-caption.Concept-MoreBtn-Dark:hover,
@@ -4565,7 +4576,8 @@ tp-caption.Team-Thumb,
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: center;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.ComingSoon-Highlight,
 .ComingSoon-Highlight {
@@ -4669,7 +4681,8 @@ tp-caption.Team-Thumb,
 #mc_embed_signup input#mc-embedded-subscribe:focus {
     font-family: "Lato", sans-serif;
     line-height: 46px;
-    letter-spacing: 1px;
+        /* letter-spacing: 1px */
+;
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 900;
@@ -4865,7 +4878,8 @@ tp-caption.Team-Thumb,
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: center;
-    letter-spacing: 1px
+        /* letter-spacing: 1px */
+
 }
 .tp-caption.Agency-ArrowTooltip,
 .Agency-ArrowTooltip {
