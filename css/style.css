@@ -149,7 +149,7 @@ h1,
   font-weight: 400;
   font-size: 8vmin;
   line-height: 1.2;
-  letter-spacing: 0.32em;
+  /* letter-spacing: 0.32em; */
   text-transform: uppercase;
   color: #fff;
 }
@@ -645,7 +645,7 @@ label.error{
   position: absolute;
   z-index: -1;
   bottom: -0.4em;
-  right:-0.38em;
+  right:0.62em;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 8.75em;
@@ -1112,7 +1112,7 @@ label.error{
   z-index: 2;
   color: #fff;
   text-align: right;
-  padding-left: 38.5vmin;
+  padding-right: 38.5vmin;
 }
 
 .main-header h1{
