@@ -7,6 +7,10 @@
   margin: 0 2rem 0 0;
 }
 
+.logo--footer {
+  width: 40%;
+}
+
 .projects .section-content .projects-carousel .project {
   width: 50%;
 }
