@@ -13,4 +13,27 @@
 .projects .section-content .projects-carousel .project img {
   margin: 0px auto;
   width: 80%;
+}
+
+.clients .container .section-content .clients-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.clients .container .section-content .clients-list .client {
+  width: 30%;
+}
+.clients .container .section-content .clients-list .client a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 260px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+.clients .container .section-content .clients-list .client a img {
+  width: 80%;
 }/*# sourceMappingURL=style_2.css.map */

@@ -14,9 +14,40 @@ $mainColor: #d2a275;
             .project {
                 width: 50%;
 
-                img{
+                img {
                     margin: 0px auto;
-                    width:80%;
+                    width: 80%;
+                }
+            }
+        }
+    }
+}
+
+.clients {
+    .container {
+        .section-content {
+            .clients-list {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+                .client {
+                    width: 30%;
+                    a {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-between;
+                        align-items: center;
+
+                        height: 260px;
+                        margin-bottom: 10px;
+
+                        text-decoration: none;
+                        img {
+                            width: 80%;
+                        }
+                    }
                 }
             }
         }

@@ -574,7 +574,7 @@ label.error{
   line-height: 1;
   color: #fff;
   position: absolute;
-  right: -500px;
+  right: -450px;
   top:0.03em;
   opacity: 0.03;
   -webkit-transform: translate(-50%, -50%);
