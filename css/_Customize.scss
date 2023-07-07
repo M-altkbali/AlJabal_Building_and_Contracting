@@ -57,11 +57,12 @@ $mainColor: #d2a275;
     }
 }
 
-.services {
+.plane {
     .section-content {
-        .row-services {
-            .col-service {
-            }
+        .row-plane {
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
     }
 }

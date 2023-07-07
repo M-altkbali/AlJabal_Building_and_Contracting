@@ -40,4 +40,10 @@
 }
 .clients .container .section-content .clients-list .client a img {
   width: 80%;
+}
+
+.plane .section-content .row-plane {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=style_2.css.map */
