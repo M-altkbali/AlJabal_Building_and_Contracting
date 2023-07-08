@@ -1140,7 +1140,7 @@ label.error{
 .tp-caption{
   padding: 0 20px;
   text-align: right;
-  Z
+  
 }
 
 .arrow-left,
@@ -1743,7 +1743,7 @@ img.mfp-img{
   font-weight: bold;
   font-size: 2vmin;
   text-transform: uppercase;
-  letter-spacing: 0.2em;
+  /* letter-spacing: 0.2em; */
   margin-top: 2.2em;
   margin-left: -1.8em;
 }
