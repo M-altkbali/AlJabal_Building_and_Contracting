@@ -48,14 +48,13 @@ $mainColor: #d2a275;
                         img {
                             width: 80%;
                         }
-                        span{
-                            
+                        span {
                         }
                     }
                 }
                 .w-20p {
                     width: 20%;
-                    a{
+                    a {
                         justify-content: space-evenly;
                     }
                 }
@@ -103,3 +102,29 @@ $mainColor: #d2a275;
 //         }
 //     }
 // }
+
+.values {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        width: 100%;
+    }
+}
+
+.border_right {
+    position: relative;
+    &::after {
+        content: "";
+        position: absolute;
+        top: -13px;
+        right: -16px;
+        width: 5px;
+        height: 50px;
+        background: #d2a275;
+    }
+}
+
+.margin_100 {
+    margin-top: 100px;
+}

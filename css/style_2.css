@@ -52,4 +52,30 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.values {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.values img {
+  width: 100%;
+}
+
+.border_right {
+  position: relative;
+}
+.border_right::after {
+  content: "";
+  position: absolute;
+  top: -13px;
+  right: -16px;
+  width: 5px;
+  height: 50px;
+  background: #d2a275;
+}
+
+.margin_100 {
+  margin-top: 100px;
 }/*# sourceMappingURL=style_2.css.map */

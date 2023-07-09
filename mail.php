@@ -6,15 +6,15 @@ $company = $_POST["company"];
 $message = $_POST["message"];
 
 
-$EmailTo = "000.lunchbox@gmail.com";
-$Subject = "New Message Received";
+$EmailTo = "info@gibal.com";
+$Subject = "Hello .. \n How are you ?";
 
 // prepare email body text
 $Fields .= "Name: ";
 $Fields .= $name;
 $Fields .= "\n";
 
-$Fields.= "Email: ";
+$Fields .= "Email: ";
 $Fields .= $email;
 $Fields .= "\n";
 
@@ -32,5 +32,4 @@ $Fields .= "\n";
 
 
 // send email
-$success = mail($EmailTo,  $Subject,  $Fields, "From:".$email);
-
+$success = mail($EmailTo,  $Subject,  $Fields, "From:" . $email);
